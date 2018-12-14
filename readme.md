@@ -1,8 +1,8 @@
-##Benchmark Java vs. C
+#Benchmark Java vs. C
 
 Try on Linux OS.
 
-#References:
+##References:
 
 https://www.javacodegeeks.com/2016/02/c-code-always-runs-way-faster-java-right-wrong.html
 https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
