@@ -1,5 +1,11 @@
 # Benchmark Java vs. C
-# Wolfram Language
+## Wolfram Language
+- Processamento interpretado
+- Processamento compilado
+- Processamento paralelo GPU
+- Processamento paralelo CPU
+- Processamento em nuvem
+- Processamento HPC AWS Batch
 
 Try on Linux OS.
 
