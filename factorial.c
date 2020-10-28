@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-long factorial(long n) {
+unsigned long factorial(unsigned long n) {
    //base case
    if(n == 0) {
       return 1;

@@ -3,6 +3,7 @@ int compute(int i);
 int test(int i);
  
 int main(int argc, char** argv) {
+
     int sum = 0;
     for(int l = 0; l < 1000; l++) {
         int i = 0;
@@ -12,6 +13,7 @@ int main(int argc, char** argv) {
             i++;
         }   
     }
+    
     return sum;
 } 
 

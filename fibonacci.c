@@ -12,7 +12,7 @@ long fibbonacci(long n) {
 
 int main() {
 
-   long n = 50;
+   long n = 30;
 	
    printf("%ld\n", fibbonacci(n));            
 }
